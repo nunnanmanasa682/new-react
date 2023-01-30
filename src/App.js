@@ -4,7 +4,7 @@ import React from "react"
 //import {store} from './redux/store'
 import {Link,BroswerRouter as Router, Routes,Route}from 'react-router-dom'
 import Products from './Products/Products'
-import Admin from '/Products/Admin'
+import Admin from './Products/Admin'
 import CreateProduct from './Products/CreateProduct'
 
 const App=() => {
